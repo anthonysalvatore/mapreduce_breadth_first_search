@@ -7,4 +7,4 @@ Driver program loops mapper & reducer until no difference in output from reducer
 
 
 Run from inside HDFS master node, with graph.txt in the input file and all other files on the master node.
-Conver from CR LF to LF in python files before running on HDFS.
+Convert from CR LF to LF in python files before running on HDFS.
